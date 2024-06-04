@@ -1,0 +1,45 @@
+{
+	"id": "2841f888-a7d4-4bc0-924c-1e49f0b1e8b6",
+	"name": "booksenvironment",
+	"values": [
+		{
+			"key": "username",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "email",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "available_book_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "not_available_book_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "OrderID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-06-04T09:49:20.941Z",
+	"_postman_exported_using": "Postman/11.1.14"
+}
